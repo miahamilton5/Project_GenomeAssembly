@@ -1,3 +1,4 @@
 Project: Genome Assembly
 Maintainer: Mia Hamilton
-Date Started: 12 Aug 2021
+Contact Info: miahamilton5@gmail.com
+Project Start: 12 Aug 2021
